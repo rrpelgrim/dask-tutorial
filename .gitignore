@@ -19,3 +19,4 @@ profile.html
 log
 .idea/
 _build/
+.DS_Store
